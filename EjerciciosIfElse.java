@@ -7,7 +7,7 @@ public class EjerciciosIfElse {
 	public static void main(String[] args) throws IOException {
 		
 		/* A partir de dor variables numéricas avisar si tienen el mismo valor. */
-		/*
+		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		System.out.println("Introduce el primer valor numérico.");
@@ -26,10 +26,10 @@ public class EjerciciosIfElse {
 		} else {
 			System.out.println("Los valores son distintos.");
 		}
-		*/
+		
 		
 		/* A partir de dos variables numéricas avisar si la variable mayor tiene un valor superior a 50 */
-		/*
+		
 		BufferedReader br2 = new BufferedReader(new InputStreamReader(System.in));
 		
 		System.out.println("Introduce el primer número");
@@ -51,10 +51,10 @@ public class EjerciciosIfElse {
 		}else {
 				System.out.println("Ninguno de los valores es mayor a 50.");
 		}
-		*/
+		
 		
 		/* A partir de una variable numérica indicar si su valor multiplicado por 7 es superior a 100 */
-		/*
+		
 		int numE = 120;
 		int resulMult = numE * 7;
 		
@@ -63,10 +63,10 @@ public class EjerciciosIfElse {
 		} else {
 			System.out.println(numE + " X 7 = " + resulMult + ", no es nayor a 100.");
 		}
-		*/
+		
 		
 		/* A partir de dos variables numéricas mostrar el resultado de dividir la variable con el mayor valor entre la variable con el menor valor */
-		/*
+		
 		float numF = 13;
 		float numG = 123;
 		
@@ -75,7 +75,7 @@ public class EjerciciosIfElse {
 		}else {
 			System.out.println(numG + "/" + numF + "=" + (numG/numF));
 		}
-		*/
+		
 		
 		/* Pedir al usuario:
 		 * - Si introduce un número positivo multiplicar el número por 10
